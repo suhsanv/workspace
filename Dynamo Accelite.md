@@ -3,7 +3,8 @@
 ###ソフトウェアの現状  
 
 ###システム構成図  
-![システム構造図](https://06a1993a-a-62cb3a1a-s-sites.googlegroups.com/site/citbrainsi/sekkeisiryou/dynamo-accelite/accelite_system.png?attachauth=ANoY7crtsnk6VeHLTraT8Eqkqdq6LCqFDofmB1rQEvj6BtOxNad3BZwkuaZFmQX5nHn41nsM5aAzAcz_ihocqPMh_6Md1u8l_zlSfmk9ZlztOcjhVo34yvLjNegM8ZmRJk-wgEfrBrJ8jGEEvHU2_Sib1BA2tIQKJJ3ZLBE7TCVC0hqa_L3ZDqzJEe2jwJ5TualEtFBkCcsD_t1u1T3o0pa62UJX_zuKtjcEC9FsQorwER4kOZ7-A1fWL6tEuimJ2ztIsY37Vh92&attredirects=0)  
+![accelite_system](https://f.cloud.github.com/assets/6184223/2158475/0ebfb442-9494-11e3-8b99-d6ec8693af07.png)
+ 
 
 ###主なプログラム  
     
