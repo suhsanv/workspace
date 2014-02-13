@@ -1,0 +1,19 @@
+#開発環境  
+
+2010年版  
+
+Subversionのレポジトリ  
+<http://www.robocup.it-chiba.ac.jp/svn/trunk/robocup2010>
+
+ 1.cit_brains.slnを開く  
+ 2.プロジェクト"PythonExec"を右クリックしてスタートアッププロジェクトに設定  
+ 3."Release"を選択  
+ 4.ソリューションのビルド (F7)  
+
+
+[Accelite(2012年版)はこちら](ここにレポジトリのアドレス)  
+
+[環境設定](ここにレポジトリのアドレス)  
+
+
+サブページ(5): [CF選定](後で) [python](後で)　[Ubuntuインストール関連](山本君のレポジトリアドレス)　[Visual Studio2012対応](後で)　[環境設定ポータル](後で)  
