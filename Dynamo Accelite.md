@@ -23,7 +23,7 @@
  * 例) >python fw3.py  
 * 色調整する  
  * 例) >python cgi.py(何もしないプログラムを起動しておいてから)  
- *   ) >./HPLStatusUI  
+ * ) >./HPLStatusUI  
     
 ###使い方(シミュレータ)  
 
@@ -31,7 +31,7 @@
 * http://www.hayashibara-lab.it-chiba.ac.jp/robocup-svn/branches/for2012  
 * for2012のdocに設定ドキュメントがある  
  * DevEnvSetup.txtを呼んで開発環境をインストールする  
-  * 先にVisual Studio 2008とSP1をインストールしておくこと  
+    * 先にVisual Studio 2008とSP1をインストールしておくこと  
  * CソースからV-REP上のDynamoを動かす方法.txtを呼んでシミュレータ環境をインストールして使ってください  
-* とりあえずシミュレータが使えればいい人は，上記開発環境の設定をしなくても，WebDAVから<http://www.hayashibara-lab.it-chiba.ac.jp/robocup-dav/software/V-REP/simulator_binary.zip>  
+* とりあえずシミュレータが使えればいい人は，上記開発環境の設定をしなくても，WebDAVからhttp://www.hayashibara-lab.it-chiba.ac.jp/robocup-dav/software/V-REP/simulator_binary.zip  
   
