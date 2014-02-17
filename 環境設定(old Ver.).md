@@ -4,7 +4,7 @@
 2011年度追加  
 
 ###インストールするもの  
-* **Visual Stadio 2008**  
+* **Visual Studio 2008**  
 * **Python 2.5**  
 * **Python Scripter**  
 * **Iron Python**  
@@ -12,7 +12,7 @@
 * **GLUT**  
 * **GLFW**  
 
-以上のものについては"インストールソフト"というフォルダにそれぞれのインストーラパッケージ等を用意してある．なお，Visual Stadioについてだけはディスクを使ってインストールを行う．  
+以上のものについては"インストールソフト"というフォルダにそれぞれのインストーラパッケージ等を用意してある．なお，Visual Studioについてだけはディスクを使ってインストールを行う．  
 
 ***
 ####追加情報  
@@ -22,9 +22,11 @@ DirectXのインストールが必要(未確認)
 
 2011/1/7  
 OpenCV 1.0ではインストーラからPathの設定を行わないので各自  
-C:\Program Files\OpenCV\bin  
+
+    C:\Program Files\OpenCV\bin  
+
 を設定してください．  
-> OpenCV 1.0のデフォルトのインストール先はC:\Program Files\です．  
+> OpenCV 1.0のデフォルトのインストール先はC:\Program Files\である．  
     
 ***  
 
@@ -40,7 +42,7 @@ Iron Pythonについてはインストール後，環境変数からPathを通�
 
 Visual Studioの設定  
 
-「ツール(T)」→「オプション(O)」→「プロジェクト」→「VC++ディレクトリ」を選択します．「ディレクトリを表示するプロジェクト(S)」で「インクルードファイル」を選択し，以下を追加．  
+「ツール(T)」→「オプション(O)」→「プロジェクト」→「VC++ディレクトリ」を選択する．「ディレクトリを表示するプロジェクト(S)」で「インクルードファイル」を選択し，以下を追加．  
 
     C:\Program Files\OpenCV\cv\include  
     C:\Program Files\OpenCV\cvaux\include  
