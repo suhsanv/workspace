@@ -82,7 +82,7 @@ v1.0のヘッダファイルcvaux.hには間違いがあるらしく，そのま
 * **GLFW**  
 インストールソフトにあるglfw.h, glfw.lib, glfwdll.lib, glfwdll.dllを，下記のディレクトリにコピーする．  
 
-|glfw.h|glfw.lib  glfwdll.lib|glfwdll.dll|  
+|glfw.h|glfw.lib/glfwdll.lib|glfwdll.dll|  
 |---|---|---|  
 | C:\Program Files\Microsoft SDKs\Windows\v6.0A\Include\gl | C:\Program Files\Microsoft SDKs\Windows\v6.0A\Lib | C:\WINDOWS\system32 |  
 
