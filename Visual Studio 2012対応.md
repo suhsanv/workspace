@@ -62,3 +62,4 @@ OpenCVビルド注意
 プリコンパイル済みヘッダの問題  
 * src/cmake_modules/PrecompiledHeader.cmake中のコンパイルオプションに/Zm200を追加  
 
+zipファイルの載せ方が分かり次第更新
